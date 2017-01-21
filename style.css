@@ -1,0 +1,16 @@
+body{
+  font-family: BigNoodleTooOblique;
+  background-color: blue;
+  color: white;
+}
+.container{
+ color: yellow;
+  float:center;
+}
+footer{
+ font-size:10px;
+  bottom:0;
+  height:20px;
+  position:absolute;
+  float:right;
+  }
