@@ -11,8 +11,8 @@ body{
 }
 footer{
  font-size:5px;
-  bottom: 0;
-  height: 0px;
-  position: absolute;
-  float: right;
+  bottom:0;
+  height:0px;
+  position:absolute;
+  float:right;
   }
